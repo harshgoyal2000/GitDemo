@@ -7,6 +7,8 @@ public class RESTAPITest {
 	@Test
 	public void browserRESTAPITest() {
 		System.out.println("Testing the browser from RESTAPI");
+		System.out.println("Testing the browser from RESTAPI2");
+		System.out.println("Testing the browser from RESTAPI3");
 	}
 
 	@Test

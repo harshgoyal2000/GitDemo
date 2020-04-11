@@ -14,5 +14,7 @@ public class RESTAPITest {
 	@Test
 	public void browserRESTAPIAutomationTest() {
 		System.out.println("Testing the browser Automation from RESTAPI");
+		System.out.println("Changes 1 made by Architect RESTAPI");
+		System.out.println("Changes 1 made by Architect RESTAPI");
 	}
 }

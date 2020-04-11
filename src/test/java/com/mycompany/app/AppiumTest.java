@@ -11,5 +11,7 @@ public class AppiumTest {
 	@Test
 	public void browserAppiumAutomationTest() {
 		System.out.println("Testing the browser Automation from Appium");
+		
+		System.out.println("Architest making random changes to the browser Automation from Appium");
 	}
 }
